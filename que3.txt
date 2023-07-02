@@ -1,5 +1,6 @@
 3. Write a short note on tags, elements, and attributes along with relevant examples ?
 
+Answer:
 Tags are the basic building blocks of HTML. They are used to define the structure of a web page. Tags are always enclosed in angle brackets, such as <h1>.
 
 Elements are the content that is enclosed between the opening and closing tags of an HTML document. For example, the text "This is a heading" is an element that is enclosed between the opening and closing tags of the <h1> element.
@@ -12,3 +13,7 @@ Element: "This is a heading"
 Attribute: src="image.jpg"
 
 Tags, elements, and attributes are the basic building blocks of HTML. By understanding how they work, you can create dynamic and interactive web pages.
+
+
+
+
